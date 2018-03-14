@@ -1,4 +1,4 @@
-# PROJ
+# PROG
 PROG class - FEUP MIEIC 1st Year
 
 ## Project

@@ -1,4 +1,6 @@
 # PROJ
-PROJ class - FEUP MIEIC 1st Year
+PROG class - FEUP MIEIC 1st Year
 
-Done with @CiscoFrisco
+## Project
+
+Done in collaboration with [CiscoFrisco](https://github.com/CiscoFrisco)
